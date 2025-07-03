@@ -58,7 +58,7 @@ Run the Streamlit app:
 streamlit run app.py
 
 
-Open your browser and navigate to http://localhost:8501.
+Open your browser 
 
 Upload a PDF file using the file uploader.
 
