@@ -1,1 +1,1 @@
-# GEN-AI-
+# GEN-AI-PRJECT
