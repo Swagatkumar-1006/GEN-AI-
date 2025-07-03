@@ -21,7 +21,7 @@ Installation
 
 Clone the repository:
 git clone https://github.com/Swagatkumar-1006/GEN-AI-.git
-cd pdf-qa-bot
+cd GEN-AI-
 
 
 Create and activate a virtual environment (optional but recommended):
