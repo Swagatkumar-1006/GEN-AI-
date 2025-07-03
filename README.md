@@ -20,7 +20,7 @@ A compatible PDF file for processing
 Installation
 
 Clone the repository:
-git clone https://github.com/your-username/pdf-qa-bot.git
+git clone https://github.com/Swagatkumar-1006/GEN-AI-.git
 cd pdf-qa-bot
 
 
